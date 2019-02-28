@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 OR GFDL-1.3-or-later -->
 
-# ASUS MeMO Pad 7 (ME176C/X)
-This document gives an overview over projects for the [ASUS MeMO Pad 7 (ME176C/X)](https://www.asus.com/Tablets/ASUS_MeMO_Pad_7_ME176C/),
+# ASUS MeMO Pad 7 (ME176C(X))
+This document gives an overview over projects for the [ASUS MeMO Pad 7 (ME176C(X))](https://www.asus.com/Tablets/ASUS_MeMO_Pad_7_ME176C/),
 plus additional (general) information about the device. The issue tracker is used for issues that affect all the provided
 distributions.
 
