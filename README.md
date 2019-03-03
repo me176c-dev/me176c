@@ -10,7 +10,7 @@ These are suggested distributions with additional instructions. You can run any 
 you will need to setup more things manually for distributions not listed here.
 
 - [Android/LineageOS](https://github.com/me176c-dev/android_device_asus_K013)
-- [Arch Linux](https://github.com/me176c-dev/archlinux-me176c)
+- [Arch Linux](https://wiki.archlinux.org/index.php/ASUS_MeMO_Pad_7_(ME176C(X)))
 - [postmarketOS](https://wiki.postmarketos.org/wiki/Asus_MeMo_Pad_7(me176c(x)))
 
 ## Projects
